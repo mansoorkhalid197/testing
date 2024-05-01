@@ -1,2 +1,2 @@
 # testing
-first repo
+first repository.
